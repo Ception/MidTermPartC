@@ -12,6 +12,9 @@ package midtermexam_versiona_extensioncode;
  * Students are reminded to add themselves as modifiers when editing the
  * code.
  * @author dancye, 2019
+ *
+ * adding additional comments for Question 5 -
+ * Midterm Part C
  */
 public class UserProfile 
 {
